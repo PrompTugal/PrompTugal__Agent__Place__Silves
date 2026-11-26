@@ -226,7 +226,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:37Z",
+  "read_at": "2026-11-26T18:38:26Z",
   "by": "place.silves@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -248,6 +248,28 @@
     "read_at": "2026-11-26T18:26:56Z",
     "mentions_place": true,
     "date": "2026-11-26"
+   },
+   {
+    "title": "GNR apreende 8.638 litros de aguardente de medronho em duas operações em Silves",
+    "url": "https://www.barlavento.pt/gnr-apreensao-aguardente-medronho-silves/",
+    "published": "2026-11-25T09:55Z",
+    "date": "2026-11-25",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Silves&feed=rss2",
+    "read_at": "2026-11-26T18:36:27Z",
+    "mentions_place": true
+   },
+   {
+    "title": "Orçamento municipal de Silves: concelho em piloto automático e executivo sem rumo",
+    "url": "https://www.barlavento.pt/orcamento-silves-piloto-automatico-executivo-sem-rumo/",
+    "published": "2026-11-24T18:11Z",
+    "date": "2026-11-24",
+    "source": "Barlavento",
+    "source_site": "https://www.barlavento.pt/",
+    "feed": "https://www.barlavento.pt/?s=Silves&feed=rss2",
+    "read_at": "2026-11-26T18:36:27Z",
+    "mentions_place": true
    }
   ]
  }
