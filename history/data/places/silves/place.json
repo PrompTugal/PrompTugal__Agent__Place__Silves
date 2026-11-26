@@ -1,0 +1,102 @@
+{
+  "$schema": "../../schemas/place.schema.json",
+  "id": "silves",
+  "type": "place",
+  "name": "Silves",
+  "kind": "municipality",
+  "located_in": "place:algarve",
+  "matches": [],
+  "source": "data/by-place/places.json",
+  "note": "A municipality of the Algarve in the by-place list (data/by-place/places.json); its boundaries and neighbours still to be checked against DGT's CAOP.",
+  "neighbours": [
+    {
+      "place": "place:albufeira",
+      "border_km": 23.2,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "name": "Almodôvar",
+      "border_km": 15.9,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:lagoa",
+      "border_km": 22.9,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:loule",
+      "border_km": 20.0,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:monchique",
+      "border_km": 33.6,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "name": "Odemira",
+      "border_km": 15.7,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "name": "Ourique",
+      "border_km": 18.0,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    },
+    {
+      "place": "place:portimao",
+      "border_km": 13.5,
+      "source": {
+        "url": "https://www.dgterritorio.gov.pt/cartografia/cartografia-tematica/caop",
+        "read_at": "2026-11-17T22:30Z",
+        "by": "ontologist@PrompTugal.dinis",
+        "how": "CAOP 2025 (Continente), official: the boundary segments (cont_trocos) with a freguesia of each municipality on either side, summed"
+      }
+    }
+  ],
+  "at": [
+    -8.44,
+    37.189
+  ],
+  "at_source": {
+    "url": "data/by-place/places.json",
+    "read_at": "2026-11-19T20:05Z",
+    "how": "the place's seat as the by-place list gives it (the map's own point)"
+  }
+}

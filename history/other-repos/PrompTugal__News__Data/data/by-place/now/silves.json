@@ -1,0 +1,153 @@
+{
+ "place": "silves",
+ "read_at": "2026-11-21T07:13:27Z",
+ "by": "collect/by-place-now.mjs (code, no model; data@PrompTugal.dinis), from this site's collected sources",
+ "coords": {
+  "lat": 37.18333,
+  "lon": -8.43333,
+  "name": "Silves",
+  "wikidata": "https://www.wikidata.org/wiki/Q749180",
+  "source": "https://www.wikidata.org/wiki/Special:EntityData/Q749180.json",
+  "property": "P625 (coordinate location)",
+  "license": {
+   "name": "CC0 1.0",
+   "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "holder": "Wikidata contributors"
+  },
+  "read_at": "2026-11-18T22:33:15Z",
+  "note": "The municipality's point on Wikidata (the parish's for Quarteira): for maps, not a boundary."
+ },
+ "about": "Now in this place, from IPMA's open data and (for Faro) adsb.lol, as collected by data.promptugal.news: each value with its source and the time read; coords from Wikidata. Not a warning service: follow IPMA (https://www.ipma.pt/) and ANEPC.",
+ "station": {
+  "name": "Portimão (Praia da Rocha)",
+  "id": 6210879,
+  "km": 11,
+  "reading": {
+   "at": "2026-11-21T06:00:00Z",
+   "temp_c": 14,
+   "humidity_pct": 95,
+   "wind_kmh": 9,
+   "wind_dir_id": 9,
+   "rain_mm": 0,
+   "pressure_hpa": null,
+   "radiation_kj_m2": null
+  },
+  "page": "https://www.ipma.pt/en/otempo/obs.superficie/",
+  "source": "https://api.ipma.pt/open-data/observation/meteorology/stations/observations.json"
+ },
+ "forecast": {
+  "place": "Portimão",
+  "id": 1081100,
+  "km": 8,
+  "page": "https://www.ipma.pt/en/otempo/prev.localidade.hora/",
+  "days": [
+   {
+    "date": "2026-11-21",
+    "t_min_c": 14.9,
+    "t_max_c": 20.5,
+    "rain_prob_pct": 100,
+    "weather_type": 10
+   },
+   {
+    "date": "2026-11-22",
+    "t_min_c": 10.2,
+    "t_max_c": 19.4,
+    "rain_prob_pct": 0,
+    "weather_type": 1
+   },
+   {
+    "date": "2026-11-23",
+    "t_min_c": 8.8,
+    "t_max_c": 18.1,
+    "rain_prob_pct": 0,
+    "weather_type": 5
+   },
+   {
+    "date": "2026-11-24",
+    "t_min_c": 9.1,
+    "t_max_c": 17.4,
+    "rain_prob_pct": 57,
+    "weather_type": 7
+   },
+   {
+    "date": "2026-11-25",
+    "t_min_c": 9.2,
+    "t_max_c": 17.6,
+    "rain_prob_pct": 35,
+    "weather_type": 3
+   }
+  ],
+  "source": "https://api.ipma.pt/open-data/forecast/meteorology/cities/daily/1081100.json"
+ },
+ "warnings": {
+  "area": "FAR (the Faro district)",
+  "active": [],
+  "page": "https://www.ipma.pt/en/otempo/prev-sam/",
+  "source": "https://api.ipma.pt/open-data/forecast/warnings/warnings_www.json"
+ },
+ "fire_risk": {
+  "municipality": "0813",
+  "days": [
+   {
+    "date": "2026-11-21",
+    "level": "low"
+   },
+   {
+    "date": "2026-11-22",
+    "level": "low"
+   },
+   {
+    "date": "2026-11-23",
+    "level": "low"
+   }
+  ],
+  "page": "https://www.ipma.pt/en/riscoincendio/rcm.pt/",
+  "source": "https://api.ipma.pt/open-data/forecast/meteorology/rcm/rcm-d0.json"
+ },
+ "uv": {
+  "place": "Faro",
+  "date": "2026-11-24",
+  "index": 2.5,
+  "page": "https://www.ipma.pt/en/otempo/prev.uv/",
+  "source": "https://api.ipma.pt/open-data/forecast/meteorology/uv/uv.json"
+ },
+ "sea": null,
+ "airport": null,
+ "reads": {
+  "observations": {
+   "url": "https://data.promptugal.news/api/v1/ipma-observations/latest.json",
+   "at": "2026-11-21T07:12:13Z",
+   "status": 200
+  },
+  "warnings": {
+   "url": "https://data.promptugal.news/api/v1/ipma-warnings/latest.json",
+   "at": "2026-11-21T07:12:31Z",
+   "status": 200
+  },
+  "forecasts": {
+   "url": "https://data.promptugal.news/api/v1/ipma-city-forecasts/latest.json",
+   "at": "2026-11-21T07:10:36Z",
+   "status": 200
+  },
+  "fire-risk": {
+   "url": "https://data.promptugal.news/api/v1/ipma-fire-risk/latest.json",
+   "at": "2026-11-21T07:12:06Z",
+   "status": 200
+  },
+  "uv": {
+   "url": "https://data.promptugal.news/api/v1/ipma-uv/latest.json",
+   "at": "2026-11-21T07:12:29Z",
+   "status": 200
+  },
+  "sea": {
+   "url": "https://data.promptugal.news/api/v1/ipma-sea/latest.json",
+   "at": "2026-11-21T07:12:19Z",
+   "status": 200
+  },
+  "adsb": {
+   "url": "https://data.promptugal.news/api/v1/adsb-faro/latest.json",
+   "at": "2026-11-21T07:04:19Z",
+   "status": 200
+  }
+ }
+}

@@ -1,0 +1,44 @@
+# Provenance: Silves (silves)
+
+Every file below was copied unchanged (inbox tokens blanked) into this folder from a PrompTugal repository, on the original path (website files at `history/<path>`, other repositories at `history/other-repos/<repo>/<path>`). Nothing was deleted at the source. Files marked *shared* are the by-place programme's common documents, copied into every place. `README-rows.md` was written here from the guidance README.
+
+Files copied: 36
+
+| Source repository | Path | Last commit | Date | Note |
+|---|---|---|---|---|
+| PrompTugal__News__Website | `board/abp/place.silves.md` | [ed328db990](https://github.com/PrompTugal/PrompTugal__News__Website/commit/ed328db990a930111998064a051d797bcef15f2b) | 2026-11-24T00:14:09+00:00 |  |
+| PrompTugal__News__Website | `board/briefs/2026-11-15-the-place-agents.md` | [d1475ada03](https://github.com/PrompTugal/PrompTugal__News__Website/commit/d1475ada03831550087a011abdd7b971ae22f20e) | 2026-11-15T21:44:31+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-14-promptugal-by-place.md` | [263f2e711d](https://github.com/PrompTugal/PrompTugal__News__Website/commit/263f2e711de07695d1f1b7e6211886e54fc45377) | 2026-11-15T21:08:07+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-16-live-local-signals-and-what-is-local.md` | [9d82d992dc](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d82d992dcfde0edcef4a4f2f78230ed74973187) | 2026-11-16T00:33:06+00:00 | shared;  |
+| PrompTugal__News__Website | `board/guidance/2026-11-16-the-home-page-is-the-places-and-the-districts.md` | [c3401440ce](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3401440ceed38144cecc5fbf401fd09c41bf7e7) | 2026-11-16T04:20:44+00:00 | shared;  |
+| PrompTugal__News__Website | `board/inboxes/place.silves.json` | [5209d147d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5209d147d0d5e550c14f53bda9f878e2a421497a) | 2026-11-15T22:42:25+00:00 |  |
+| PrompTugal__News__Website | `board/inboxes/site.silves.json` | [5209d147d0](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5209d147d0d5e550c14f53bda9f878e2a421497a) | 2026-11-15T22:42:25+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-15T21-51-07Z.json` | [35e4dbe57e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/35e4dbe57e7b3f73b7787f683b7338ebffa991d5) | 2026-11-15T21:57:46+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-15T21-57-43Z.json` | [1e1aba3923](https://github.com/PrompTugal/PrompTugal__News__Website/commit/1e1aba3923f3bd9b36a931a4e35a828c12a34fd2) | 2026-11-15T22:18:45+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-15T23-16-48Z.json` | [5fd9cf0dc1](https://github.com/PrompTugal/PrompTugal__News__Website/commit/5fd9cf0dc10d312acce1e6fd9817fdf39411e441) | 2026-11-15T23:17:56+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T00-16-59Z.json` | [6cb2a95330](https://github.com/PrompTugal/PrompTugal__News__Website/commit/6cb2a953302212884ec0130eb9a06c5744eb6994) | 2026-11-16T00:18:55+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T01-16-16Z.json` | [f3792deef8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/f3792deef83a2d020a17715148fd3582552ae10a) | 2026-11-16T01:17:32+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T02-17-00Z.json` | [c566586f82](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c566586f82033bf7a6d41f9cbe4d111ec2b0df5e) | 2026-11-16T02:18:45+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T03-16-40Z.json` | [3620efb5df](https://github.com/PrompTugal/PrompTugal__News__Website/commit/3620efb5df011585631d64812ef96b44f02bac05) | 2026-11-16T03:19:31+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T04-16-53Z.json` | [4505315184](https://github.com/PrompTugal/PrompTugal__News__Website/commit/4505315184f6c2b6b0994b5420c4e8e10f9267bd) | 2026-11-16T04:18:21+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T05-16-32Z.json` | [9b613a4ef9](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9b613a4ef9c70757125e04761ee76660f11659bf) | 2026-11-16T05:18:11+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T06-16-29Z.json` | [265de75db7](https://github.com/PrompTugal/PrompTugal__News__Website/commit/265de75db792db14dd91b214bdc0bf94426c0a80) | 2026-11-16T06:19:04+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T07-18-26Z.json` | [cf395ec708](https://github.com/PrompTugal/PrompTugal__News__Website/commit/cf395ec70886cea95fc1f41b110432d3f6f3fbfd) | 2026-11-16T07:19:54+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T08-19-21Z.json` | [433614e499](https://github.com/PrompTugal/PrompTugal__News__Website/commit/433614e4998d321ce8feaf45d221d76ec50f4d78) | 2026-11-16T08:20:59+00:00 |  |
+| PrompTugal__News__Website | `board/runs/place.silves/2026-11-16T09-16-35Z.json` | [756a1ad3a2](https://github.com/PrompTugal/PrompTugal__News__Website/commit/756a1ad3a2a1bd90506e54d13428ad494b1aa474) | 2026-11-16T15:27:47+00:00 |  |
+| PrompTugal__News__Website | `board/team/conductor/place-agents.json` | [c3401440ce](https://github.com/PrompTugal/PrompTugal__News__Website/commit/c3401440ceed38144cecc5fbf401fd09c41bf7e7) | 2026-11-16T04:20:44+00:00 | shared;  |
+| PrompTugal__News__Website | `board/team/place.silves/debriefs/2026-11-16-account-move.md` | [3a7b99f9df](https://github.com/PrompTugal/PrompTugal__News__Website/commit/3a7b99f9df333fe6f9aae99a790a9cc591452f3e) | 2026-11-16T15:33:21+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.silves/debriefs/2026-11-16-handover.md` | [9b613a4ef9](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9b613a4ef9c70757125e04761ee76660f11659bf) | 2026-11-16T05:18:11+00:00 |  |
+| PrompTugal__News__Website | `board/team/place.silves/status.json` | [756a1ad3a2](https://github.com/PrompTugal/PrompTugal__News__Website/commit/756a1ad3a2a1bd90506e54d13428ad494b1aa474) | 2026-11-16T15:27:47+00:00 |  |
+| PrompTugal__News__Website | `board/the-account-move.md` | [09d30f431c](https://github.com/PrompTugal/PrompTugal__News__Website/commit/09d30f431cec35e4414920e788a92108dc4a08e4) | 2026-11-06T22:43:20+00:00 | shared;  |
+| PrompTugal__News__Website | `data/by-place/now/silves.json` | [118389375e](https://github.com/PrompTugal/PrompTugal__News__Website/commit/118389375ec7accb8e9a60a5d60f2ebf2a1af702) | 2026-11-26T01:14:52+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/places.json` | [9d35400d1b](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9d35400d1baf1c414fa70f6a05642e4f4d7db3e0) | 2026-11-16T13:31:42+00:00 | shared;  |
+| PrompTugal__News__Website | `data/by-place/silves.json` | [9b613a4ef9](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9b613a4ef9c70757125e04761ee76660f11659bf) | 2026-11-16T05:18:11+00:00 |  |
+| PrompTugal__News__Website | `data/by-place/silves.json.sig` | [9b613a4ef9](https://github.com/PrompTugal/PrompTugal__News__Website/commit/9b613a4ef9c70757125e04761ee76660f11659bf) | 2026-11-16T05:18:11+00:00 |  |
+| PrompTugal__News__Website | `data/places/silves/place.json` | [e2a97608b8](https://github.com/PrompTugal/PrompTugal__News__Website/commit/e2a97608b89f06559d8d0263f87e710d5dfbbc2e) | 2026-11-19T19:37:23+00:00 |  |
+| PrompTugal__News__Data | `data/by-place/now/silves.json` | [bd410a7376](https://github.com/PrompTugal/PrompTugal__News__Data/commit/bd410a73762d6b0a755da0a946556d6e47d54c8e) | 2026-11-21T07:14:13+00:00 |  |
+| PrompTugal__News__Data | `data/events/by-place/silves.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__News__Data | `data/social/by-place/silves.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__News__Data | `discovery/by-place/silves/2026-11-18.json` | [16239be9f7](https://github.com/PrompTugal/PrompTugal__News__Data/commit/16239be9f71eb31e42c4470079daec27bc6ad991) | 2026-11-18T14:20:34+00:00 |  |
+| PrompTugal__News__Data | `discovery/claims/by-place/silves.json` | [f30070323c](https://github.com/PrompTugal/PrompTugal__News__Data/commit/f30070323ceacb1e432d8b63d9f8820c8a84fee1) | 2026-11-21T09:25:31+00:00 |  |
+| PrompTugal__Agent__Conductor | `history/board/briefs/2026-11-16-home-page-by-place.md` | [486b32de13](https://github.com/PrompTugal/PrompTugal__Agent__Conductor/commit/486b32de1382947f541ff0986d690a8987b39f30) | 2026-11-26T01:44:37+00:00 | shared;  |
