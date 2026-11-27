@@ -5,7 +5,7 @@
  "kind": "municipality",
  "parent": "algarve",
  "status": "live",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "by": "place.silves@PrompTugal.dinis",
  "mandate": "PrompTugal.news Silves: AI and technology in Silves, the Algarve's orange capital and old regional capital, and what reaches Silves from the Algarve, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -226,7 +226,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T18:38:26Z",
+  "read_at": "2026-11-27T07:37Z",
   "by": "place.silves@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -234,7 +234,7 @@
    "url": "https://www.barlavento.pt/rouxinol-baile-mandado-silves/",
    "source": "Barlavento",
    "date": "2026-11-26",
-   "read_at": "2026-11-26T18:26:56Z",
+   "read_at": "2026-11-27T07:25:24Z",
    "names_place": true
   },
   "items": [
@@ -245,31 +245,9 @@
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-26T18:26:56Z",
+    "read_at": "2026-11-27T07:25:24Z",
     "mentions_place": true,
     "date": "2026-11-26"
-   },
-   {
-    "title": "GNR apreende 8.638 litros de aguardente de medronho em duas operações em Silves",
-    "url": "https://www.barlavento.pt/gnr-apreensao-aguardente-medronho-silves/",
-    "published": "2026-11-25T09:55Z",
-    "date": "2026-11-25",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-26T18:36:27Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Orçamento municipal de Silves: concelho em piloto automático e executivo sem rumo",
-    "url": "https://www.barlavento.pt/orcamento-silves-piloto-automatico-executivo-sem-rumo/",
-    "published": "2026-11-24T18:11Z",
-    "date": "2026-11-24",
-    "source": "Barlavento",
-    "source_site": "https://www.barlavento.pt/",
-    "feed": "https://www.barlavento.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-26T18:36:27Z",
-    "mentions_place": true
    }
   ]
  }
