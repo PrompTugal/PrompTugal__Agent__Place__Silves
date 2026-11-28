@@ -5,7 +5,7 @@
  "kind": "municipality",
  "parent": "algarve",
  "status": "live",
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "by": "place.silves@PrompTugal.dinis",
  "mandate": "PrompTugal.news Silves: AI and technology in Silves, the Algarve's orange capital and old regional capital, and what reaches Silves from the Algarve, Portugal and the world. Independent; every fact sourced.",
  "gravity": {
@@ -226,7 +226,7 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-27T18:38:35Z",
+  "read_at": "2026-11-28T07:36Z",
   "by": "place.silves@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
@@ -234,7 +234,7 @@
    "url": "https://postal.pt/algarve/rejeicao-do-orcamento-de-silves-leva-presidente-da-camara-a-alertar-para-obras-e-apoios-que-poderao-ficar-comprometidos/",
    "source": "Postal do Algarve",
    "date": "2026-11-27",
-   "read_at": "2026-11-27T18:35:32Z",
+   "read_at": "2026-11-28T07:25:21Z",
    "names_place": true
   },
   "items": [
@@ -242,34 +242,23 @@
     "title": "Rejeição do orçamento de Silves leva presidente da Câmara a alertar para obras e apoios que poderão ficar comprometidos",
     "url": "https://postal.pt/algarve/rejeicao-do-orcamento-de-silves-leva-presidente-da-camara-a-alertar-para-obras-e-apoios-que-poderao-ficar-comprometidos/",
     "published": "2026-11-27T18:28Z",
-    "date": "2026-11-27",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
+    "feed": "https://postal.pt/feed/",
+    "read_at": "2026-11-28T07:25:21Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
    },
    {
     "title": "São Silvestre de Vila Real de Santo António – Monte Gordo bate recorde com mais de 1.500 inscritos",
     "url": "https://postal.pt/algarve/sao-silvestre-de-vila-real-de-santo-antonio-monte-gordo-bate-recorde-com-mais-de-1-500-inscritos/",
     "published": "2026-11-27T16:30Z",
-    "date": "2026-11-27",
     "source": "Postal do Algarve",
     "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Silves procura adquirir até 47 casas para responder às necessidades habitacionais do concelho",
-    "url": "https://postal.pt/algarve/silves-procura-adquirir-ate-47-casas-para-responder-as-necessidades-habitacionais-do-concelho/",
-    "published": "2026-11-27T14:15Z",
-    "date": "2026-11-27",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
+    "feed": "https://postal.pt/feed/",
+    "read_at": "2026-11-28T07:25:21Z",
+    "mentions_place": true,
+    "date": "2026-11-27"
    },
    {
     "title": "Silves recebe ROUXINOL, um baile mandado para adiar o fim",
@@ -278,75 +267,9 @@
     "source": "Barlavento",
     "source_site": "https://www.barlavento.pt/",
     "feed": "https://www.barlavento.pt/feed/",
-    "read_at": "2026-11-27T18:25:42Z",
+    "read_at": "2026-11-28T07:25:19Z",
     "mentions_place": true,
     "date": "2026-11-26"
-   },
-   {
-    "title": "Serviços municipais de Silves encerram ao público na próxima segunda-feira",
-    "url": "https://postal.pt/algarve/servicos-municipais-de-silves-encerram-ao-publico-na-proxima-segunda-feira/",
-    "published": "2026-11-25T12:40Z",
-    "date": "2026-11-25",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
-   },
-   {
-    "title": "São Silvestre de Vila Real de Santo António e Monte Gordo corre por uma causa solidária",
-    "url": "https://postal.pt/algarve/sao-silvestre-de-vila-real-de-santo-antonio-e-monte-gordo-corre-por-uma-causa-solidaria/",
-    "published": "2026-11-25T12:26Z",
-    "date": "2026-11-25",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Aguardente de medronho avaliada em 210 mil euros apreendida pela GNR em Silves",
-    "url": "https://postal.pt/algarve/aguardente-de-medronho-avaliada-em-210-mil-euros-apreendida-pela-gnr-em-silves/",
-    "published": "2026-11-24T14:40Z",
-    "date": "2026-11-24",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Atleta de Silves vence prova de corta-mato em Espanha e clube algarvio conquista sete pódios",
-    "url": "https://postal.pt/algarve/atleta-de-silves-vence-prova-de-corta-mato-em-espanha-e-clube-algarvio-conquista-sete-podios/",
-    "published": "2026-11-23T12:08Z",
-    "date": "2026-11-23",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Jazz nas Adegas leva música, vinho e tapas a duas adegas do concelho de Silves",
-    "url": "https://postal.pt/algarve/jazz-nas-adegas-leva-musica-vinho-e-tapas-a-duas-adegas-do-concelho-de-silves/",
-    "published": "2026-11-18T16:10Z",
-    "date": "2026-11-18",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
-   },
-   {
-    "title": "Silves recebe debate sobre os desafios da participação cívica na cultura",
-    "url": "https://postal.pt/algarve/silves-recebe-debate-sobre-os-desafios-da-participacao-civica-na-cultura/",
-    "published": "2026-11-17T15:50Z",
-    "date": "2026-11-17",
-    "source": "Postal do Algarve",
-    "source_site": "https://postal.pt/",
-    "feed": "https://postal.pt/?s=Silves&feed=rss2",
-    "read_at": "2026-11-27T18:35:32Z",
-    "mentions_place": true
    }
   ]
  }
